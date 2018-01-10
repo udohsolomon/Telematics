@@ -1,0 +1,19 @@
+name: telemetry
+
+channels:
+ - conda-forge
+ 
+dependencies:
+- python=3.6
+- h5py
+- ipython
+- joblib
+- jupyter
+- pandas
+- patsy
+- numpy
+- notebook
+- matplotlib
+- datetime
+- folium
+- tqdm
